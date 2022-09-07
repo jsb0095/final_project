@@ -1,8 +1,7 @@
 import 'package:final_project/components/project_colors.dart';
 import 'package:flutter/cupertino.dart';
-import 'package:flutter/material.dart
-
-import 'add_medicine_page.dart';';
+import 'package:flutter/material.dart';
+import 'add_medicine_page.dart';
 
 
 class HomePage extends StatefulWidget {
